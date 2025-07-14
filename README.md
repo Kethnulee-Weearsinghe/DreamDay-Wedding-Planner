@@ -25,5 +25,4 @@ This is a web-based Wedding Planning System developed using **ASP.NET MVC** and 
 - SQL Server
 - Bootstrap (for responsive UI)
 - HTML/CSS/JavaScript
-- Visual Studio 2017 or higher
 
